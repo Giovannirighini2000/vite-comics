@@ -2,6 +2,7 @@
 import AppHeader from './components/AppHeader.vue'
 import AppFooter from './components/AppFooter.vue'
 import AppMain from './components/AppMain.vue'
+import AppMainImg from './components/AppMainImg.vue'
 
 
 export default {
@@ -9,11 +10,7 @@ export default {
     AppHeader,
     AppFooter,
     AppMain,
-    
-   
-    
-
-
+    AppMainImg,
   }
 
 }
@@ -21,12 +18,13 @@ export default {
 
 <template>
   <div>
-  <AppHeader/>
-  <AppMain/>
-  <AppFooter/>
-  
-   
-  
+    <AppHeader />
+    <AppMain />
+    <AppMainImg />
+    <AppFooter />
+
+
+
 
   </div>
 </template>

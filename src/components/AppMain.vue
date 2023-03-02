@@ -4,13 +4,12 @@
     </div>
 </template>
 <script>
-export default{
+export default {
 
 }
 </script>
-<style lang="scss"> 
-.background-black-main{
-    background-color: black;
-    height: 100px;
-}
+<style lang="scss"> .background-black-main {
+     background-color: black;
+     height: 100px;
+ }
 </style>
