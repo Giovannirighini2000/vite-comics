@@ -128,7 +128,8 @@ export default {
     position: absolute;
     z-index: 1;
     margin-top: -20px;
-    padding: 15px 10px;
+    margin-left: -20px;
+    padding: 15px 25px;
     background-color: #0282f9;
     color: white;
     border: none;
