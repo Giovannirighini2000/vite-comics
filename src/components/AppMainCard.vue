@@ -1,7 +1,7 @@
 <template>
     <li class="basis-img">
         <img :src="thumb" alt="">
-        <h4>
+        <h4 class="white">
             {{ series }}
         </h4>
 
